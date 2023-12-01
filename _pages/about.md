@@ -9,23 +9,20 @@ redirect_from:
 ---
 Personal Profile
 ======
-刘华虓，1986年出生，吉林长春人。
+Liu Huayu, from Changchun, Jilin.
+I obtained a bachelor's and doctoral degree from the School of Computer Science, Jilin University from 2005 to 2013, under the guidance of Professor Jin Ying. After graduating with a doctoral degree in 2013, he stayed on campus to teach. In 2017, he was promoted to associate professor and obtained the qualification for doctoral enrollment from 2018 to 2019. In 2017, he was elected as a member of the Software Engineering Professional Committee of the Chinese Computer Society.
+In terms of scientific research, data-driven approaches are taken as the core, targeting software communities and real-world problems. Technologies such as text analysis, data mining, code analysis, and deep learning are utilized to explore solutions. The research areas involved mainly include software engineering, human-computer interaction, data mining, and expert systems.
+The main courses include Compilation Principles and Implementation, Software Engineering Tools and Applications, and Program Analysis Techniques. Responsible for and leading projects including the National Key R&D Program sub project, Jilin Province Youth Research Fund project, Jilin University Excellent Young Teacher Key Training Program, and Jilin University Excellent Youth Training Funding Program. Since 2017, I have published 20 SCI indexed papers, including 14 papers on IEEE Transactions on Software Engineering, a well-known A-class publication recommended by CCF, and Information and Software Technology, Information Sciences, Journal of Systems and Software, Journal of Software: Evolution and Process, Software: Practice and Experience, IET Software, Science of Computer Programming, and Journal of Computer Science&Technology.
 
-2005-2013年 在吉林大学计算机学院分获学士、博士学位，师从金英教授。2013年博士毕业后留校任教，2017年晋升为副教授，2018~2019年起获得博士研究生招生资格，2017年当选中国计算机学会软件工程专业委员会委员。
-
-在科研方面，以数据驱动为核心，面向软件社区及现实世界中切实存在的问题，利用包括文本分析、数据挖掘、代码分析、深度学习等技术探索解决方案。所涉及的研究领域主要包括：软件工程、人机交互、数据挖掘、专家系统。
-
-主讲课程包括《编译原理与实现》、《软件工程工具与应用》及《程序分析技术》。负责和主持项目包括国家重点研发计划子项、吉林省青年科研基金项目、吉林大学优秀青年教师重点培养计划、吉林大学优青培育资助计划。2017年至今发表SCI检索论文20篇，其中发表在软件工程领域CCF推荐B类著名刊物Information and Software Technology、Information Sciences、Journal of Systems and Software、Journal of Software: Evolution and Process、Software: Practice and Experience、IET Software、Science of Computer Programming、Journal of Computer Science& Technology论文14篇。 
-
-发表的代表性学术论文
+Representative academic papers published
 ======
 **A类**
 
 [1]AccessFixer: Enhancing GUI Accessibility for Low Vision Users with R-GCN Model. IEEE Transactions on Software Engineering
-作者：张梦玺，刘华虓*，陈春阳，高光永，李晗，赵剑
+Authors: Zhang Mengxi, Liu Huafu *, Chen Chunyang, Gao Guangyong, Li Han, Zhao Jian
 
 [2]Animation2API: API Recommendation for the Implementation of Android UI Animations. IEEE Transactions on Software Engineering(2023.09)
-作者：王一惠，刘华虓*，郜山权
+Authors: Wang Yihui, Liu Huafu *, Gao Shanquan
 
 **B类**
 
@@ -57,9 +54,9 @@ Personal Profile
 
 [14]The Verification of Program Relationships in the Context of Software Cybernetics. Journal of Systems and Software (2017.02 CCF B区)
 
-[15]Tabular表达式的指称语义研究《软件学报》2014
+[15] A Study on the Referential Semantics of Tabular Expressions in Chinese Journal of Software, 2014
 
-[16]一种面向方面需求模型的分析与验证方法《计算机学报》2013
+[16] An Analysis and Validation Method for Aspect Oriented Requirements Model, Journal of Computer Science, 2013
 
-[17]一种需求变更影响分析方法《计算机研究与发展》2013    
+[17] A Method for Analyzing the Impact of Requirements Changes in Computer Research and Development, 2013 
 
