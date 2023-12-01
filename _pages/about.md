@@ -19,7 +19,14 @@ Personal Profile
 
 发表的代表性学术论文
 ======
-1]Consistent or not? An Investigation of Using Pull Request Template in GitHub.  Information and Software Technology  (2021.12 在线发表 CCF B区 中科院1区)
+**A类**
+[1]AccessFixer: Enhancing GUI Accessibility for Low Vision Users with R-GCN Model. IEEE Transactions on Software Engineering
+作者：张梦玺，刘华虓*，陈春阳，高光永，李晗，赵剑
+[2]Animation2API: API Recommendation for the Implementation of Android UI Animations. IEEE Transactions on Software Engineering(2023.09)
+作者：王一惠，刘华虓*，郜山权
+
+**B类**
+[1]Consistent or not? An Investigation of Using Pull Request Template in GitHub.  Information and Software Technology  (2021.12 在线发表 CCF B区 中科院1区)
 
 [2]FlexPDA: A Flexible Programming Framework for Deep Learning Accelerators.  Journal of Computer Science& Technology  (2021.9在线发表 CCF B区)
 
@@ -52,8 +59,4 @@ Personal Profile
 [16]一种面向方面需求模型的分析与验证方法《计算机学报》2013
 
 [17]一种需求变更影响分析方法《计算机研究与发展》2013    
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
