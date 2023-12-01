@@ -16,7 +16,7 @@ The main courses include Compilation Principles and Implementation, Software Eng
 
 Representative academic papers published
 ======
-**A类**
+**CCF-A**
 
 [1]AccessFixer: Enhancing GUI Accessibility for Low Vision Users with R-GCN Model. IEEE Transactions on Software Engineering
 Authors: Zhang Mengxi, Liu Huafu *, Chen Chunyang, Gao Guangyong, Li Han, Zhao Jian
@@ -24,7 +24,7 @@ Authors: Zhang Mengxi, Liu Huafu *, Chen Chunyang, Gao Guangyong, Li Han, Zhao J
 [2]Animation2API: API Recommendation for the Implementation of Android UI Animations. IEEE Transactions on Software Engineering(2023.09)
 Authors: Wang Yihui, Liu Huafu *, Gao Shanquan
 
-**B类**
+**CCF-B**
 
 [1]Consistent or not? An Investigation of Using Pull Request Template in GitHub.  Information and Software Technology  (2021.12 在线发表 CCF B区 中科院1区)
 
